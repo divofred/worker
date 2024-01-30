@@ -1,2 +1,2 @@
-# worker
+# Cloudflare workers
 GitHub worker test
